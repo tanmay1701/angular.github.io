@@ -1,0 +1,6 @@
+[
+    {"Name":"Book_1", "Price":900, "Author":"ABC-author", "NoOfPages":40},
+    {"Name":"Book_2", "Price":700, "Author":"PQR-author", "NoOfPages":60},
+    {"Name":"Book_3", "Price":750, "Author":"XYZ-author", "NoOfPages":150},
+    {"Name":"Book_4", "Price":800, "Author":"ABA-author", "NoOfPages":250}
+]
